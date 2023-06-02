@@ -83,7 +83,9 @@ highlight_name: true
 My name is Min-Ji Kim, a Ph.D. candidate in Department of Applied Biosciences at the KNU Molecular Microbiology Lab in South Korea. My research interests include metagenomics and host-microbe interactions based on one-health approaches. Using multi-omics approaches, I am particularly interested in understanding the mechanisms of interplays within microbial communities as well as between hosts and microbes.
 
 I am currently passionate about the following subjects.
+
 (1) Exploring the coevolutionary mechanisms within the metacommunity, specifically focusing on the dissemination of antibiotic resistance genes
+
 (2) Investigating environmental microbial dysbiosis such as algal blooms resulting from changing climate and exposure to emerging contaminants
 
 {style="text-align: justify;"}
