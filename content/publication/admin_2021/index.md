@@ -39,6 +39,7 @@ abstract: "The skin microbiome, especially the axillary microbiome, consists of 
 tags:
 - Microbiome
 - Human
+- Skin
 - Body_odor
 featured: false
 
