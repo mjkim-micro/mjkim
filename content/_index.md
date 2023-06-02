@@ -46,16 +46,20 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
+          description: 100%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Python
+          description: 80%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: NGS
+          description: 100%
+          icon: dna
+          icon_pack: fas          
+        - name: Molecular Biology Tech.
+          description: 80%
+          icon: flask-vial
           icon_pack: fas
   - block: experience
     content:
