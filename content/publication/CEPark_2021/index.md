@@ -10,7 +10,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2021-09-21T00:00:00Z"
-doi: "[https://doi.org/10.1099/ijsem.0.004612](https://doi.org/10.3390/microorganisms9092002)"
+doi: "https://doi.org/10.3390/microorganisms9092002"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-21T00:00:00Z"
