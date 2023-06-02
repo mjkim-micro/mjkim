@@ -32,9 +32,8 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Mitochondrial DNA Part B, 5*(1)"
-publication_short: "The Silurus microdorsalis is known as Korean endemic slender catfish. Despite its value as a biological resource, there is no complete mitochondrial genome sequence. The complete mitochondrial genome consisted of 16,524 bp including 22 transfer RNA (tRNAs), 2 ribosomal RNA (rRNAs), 13 protein-coding genes (PCGs), and A + T rich region. The overall base composition of S. microdorsalis was A + T: 56.1%, C + G: 43.9%, apparently with slight AT bias. Phylogenetic relationship showed that S. microdorsalis was closely related to Silurus glanis."
-
-abstract: ""
+publication_short: ""
+abstract: "The Silurus microdorsalis is known as Korean endemic slender catfish. Despite its value as a biological resource, there is no complete mitochondrial genome sequence. The complete mitochondrial genome consisted of 16,524 bp including 22 transfer RNA (tRNAs), 2 ribosomal RNA (rRNAs), 13 protein-coding genes (PCGs), and A + T rich region. The overall base composition of S. microdorsalis was A + T: 56.1%, C + G: 43.9%, apparently with slight AT bias. Phylogenetic relationship showed that S. microdorsalis was closely related to Silurus glanis."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
