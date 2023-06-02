@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. candidate in Applied Biosciences
+    - course: Ph.D. in Applied Biosciences
       institution: Kyungpook National University
       year: 2024
     - course: M.S. in Applied Biosciences
