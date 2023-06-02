@@ -25,8 +25,8 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Korean Journal of Microbiology, 56*(4)"
-publication_short: "Labrys sp. KNU-23 is a Gram-negative, aerobic, rod-shaped, tryptophan-producing, urea-decomposing bacterium that was isolated from ginseng soil in Bonghwa-gun, Republic of Korea. This study reports the complete genome sequence of strain KNU-23. The complete genome comprises two circular chromosomes of 5,388,854 bp and 2,162,438 bp with a GC content of 64 and 62.1%, respectively. The whole genome was predicted to have 6,868 protein coding genes. In addition, ureadecomposing and tryptophan-producing genes that are associated with plant growth-promoting activity were identified. Therefore, Labrys sp. KNU-23 is likely to be an agriculturally useful strain."
-abstract: ""
+publication_short: ""
+abstract: "Labrys sp. KNU-23 is a Gram-negative, aerobic, rod-shaped, tryptophan-producing, urea-decomposing bacterium that was isolated from ginseng soil in Bonghwa-gun, Republic of Korea. This study reports the complete genome sequence of strain KNU-23. The complete genome comprises two circular chromosomes of 5,388,854 bp and 2,162,438 bp with a GC content of 64 and 62.1%, respectively. The whole genome was predicted to have 6,868 protein coding genes. In addition, ureadecomposing and tryptophan-producing genes that are associated with plant growth-promoting activity were identified. Therefore, Labrys sp. KNU-23 is likely to be an agriculturally useful strain."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
