@@ -42,7 +42,6 @@ tags:
 - Genomics
 - Sequencing
 - Mitochondria
-- Pseudarthrobacter
 featured: false
 
 # links:
