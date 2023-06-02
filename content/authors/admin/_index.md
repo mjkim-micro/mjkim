@@ -80,5 +80,7 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Min-Ji Kim is a Ph.D. candidate in Applied Biosciences at the KNU Molecular Microbiology Lab. Her research interests include metagenomics in one-health approach and host-microbe interactions. 
+
+Her passion lies in understanding the mechanisms of metagenomic co-evolutions effected by biotic/abiotic stress.
 {style="text-align: justify;"}
