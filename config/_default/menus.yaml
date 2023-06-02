@@ -8,11 +8,10 @@ main:
     url: '#about'
     weight: 10
   - name: Projects
-    url: '#projects'
+    url: 'assets/media/albums/demo/'
     weight: 20
   - name: Photo
-    text: |-
-        {{< gallery album="demo" >}}
+    url: "#"
     weight: 30
   - name: Publications
     url: '#featured'
