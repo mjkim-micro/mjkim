@@ -40,7 +40,7 @@ tags:
 - Genomics
 - Sequencing
 - PGPR
-- Pseuarthrobacter
+- Pseudarthrobacter
 featured: false
 
 # links:
