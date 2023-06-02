@@ -2,7 +2,7 @@
 title: "Data on complete genome sequence and annotation of Paenibacillus sonchi LMG 24727T"
 authors:
 - GyuDae Lee
-- Min-Ji Kim
+- admin
 - Jae-Ho Shin
 #author_notes:
 #- "Equal contribution"
