@@ -1,7 +1,7 @@
 ---
 title: "Complete genome sequence of Bacillus inaquosorum 1HC-NA assembled from the Oxford Nanopore sequencing data"
 authors:
-- Min-Ji Kim
+- admin
 - TaeHyung Park
 - Dae-Ryung Jung
 - GyuDae Lee
