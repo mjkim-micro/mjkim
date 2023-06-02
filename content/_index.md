@@ -51,8 +51,12 @@ sections:
           icon_pack: fab
         - name: Python
           description: 80%
-          icon: chart-line
+          icon: python
           icon_pack: fas
+        - name: Bioinformatics
+          description: 100%
+          icon: chart-line
+          icon_pack: fas  
         - name: NGS
           description: 100%
           icon: dna
