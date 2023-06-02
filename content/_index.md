@@ -45,14 +45,6 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 100%
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          description: 80%
-          icon: python
-          icon_pack: fas
         - name: Bioinformatics
           description: 100%
           icon: chart-line
