@@ -11,7 +11,8 @@ main:
     url: '#projects'
     weight: 20
   - name: Photo
-    url: '#featured'
+    text: |-
+        {{< gallery album="demo" >}}
     weight: 30
   - name: Publications
     url: '#featured'
