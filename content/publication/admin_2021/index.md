@@ -41,7 +41,7 @@ tags:
 - Human
 - Skin
 - Body_odor
-featured: false
+featured: true
 
 # links:
 # - name: ""
