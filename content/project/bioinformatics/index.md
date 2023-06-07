@@ -1,8 +1,8 @@
 ---
-title: Bioinformatics
+title: Design of Biomarkers
 summary: Discovering biomarkers and proposing a novel model based on machine learning and deep learning
 tags:
-  - Bioinformatics
+  - Design of Biomarkers
 date: '2020-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
