@@ -1,8 +1,8 @@
 ---
-title: Environmental metagenomics
+title: Environmental Metagenomics
 summary: Understanding the mechanisms of microbial interactions using metagenomics and meta-transcriptomics analyses
 tags:
-  - Environmental metagenomics
+  - Environmental Metagenomics
 date: '2021-03-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
