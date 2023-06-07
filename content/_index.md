@@ -148,8 +148,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Environmental metagenomics
-          tag: Environmental metagenomics
+        - name: Environmental Metagenomics
+          tag: Environmental Metagenomics
         - name: Design of Biomarkers
           tag: Design of Biomarkers
         - name: Host-Microbe Interactions
